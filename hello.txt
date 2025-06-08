@@ -1,1 +1,1 @@
-Hello git!
+This is from the conflict-test branch.
