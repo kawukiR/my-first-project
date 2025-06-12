@@ -1,1 +1,2 @@
 This line was added from the copy-of-my-first-project folder.
+This line was added in feature-1 branch.
